@@ -34,11 +34,6 @@ const mediaIdades = somaIdades/usuarios.length
 
 
 
-function chamaNome(nome, sobrenome){
-  alert(`Meu nome é ${nome} e meu sobrenome é ${sobrenome}`)
-}
-
-chamaNome("nome", "sobrenome")
 
 
 
